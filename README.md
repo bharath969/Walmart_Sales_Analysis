@@ -3,7 +3,8 @@
 <br>This project aims to explore the Walmart Sales data to understand top performing branches and products, sales trend of of different products, customer behaviour. The aims is to study how sales strategies can be improved and optimized. The dataset was obtained from the Kaggle Walmart Sales Forecasting Competition.
 
 
-# Creating the table 
+# Creating the table
+<br> craete a data base and a table in it
 <br> Using the columns of csv file and its data type,we create a table.
 
 # Uploading the CSV File
@@ -15,5 +16,9 @@
 # Data wrangling
 <br>This has already been taken care of while creating table by using constraint "NOT NULL"
 
-# Feauture Engineering
+# Feauture Engineering : 
 To help us access the given data
+
+<br>1.Add a new column "Time_of_day"
+<br>2.Add a new column "day_name"
+<br>3.Add a new column "month_name"
