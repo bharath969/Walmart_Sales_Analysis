@@ -5,12 +5,11 @@
 
 # Creating the table
 <br> Create a data base and a table in it
-<br> The datatypes hould carefully be macthed with the coulmns of the given csv file.
+<br> The datatypes of  attributes should carefully be macthed with the coulmns of the given csv file.
 
 # Uploading the CSV File
 <br>Upload the values from csv file to the table created in sql.
-
-<br>Truncate the table wwhile uploading
+<br>Truncate the table while uploading
 
 
 # Data wrangling
@@ -20,5 +19,7 @@
 To help us access the given data
 
 <br>1.Add a new column "Time_of_day"
+
 <br>2.Add a new column "day_name"
+
 <br>3.Add a new column "month_name"
