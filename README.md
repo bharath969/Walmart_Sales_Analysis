@@ -8,5 +8,9 @@
 
 # Uploading the CSV File
 <br> we upload the values from csv file to the table created in sql.
-<br>Before uploading,we need to clear the null values from the file.
+
 <br>Make sure that we truncate the table wwhile uploading
+
+
+# Data wrangling
+<br>This has already been taken care of while creating table by using constraint "NOT NULL"
