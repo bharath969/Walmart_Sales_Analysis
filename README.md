@@ -4,13 +4,13 @@
 
 
 # Creating the table
-<br> craete a data base and a table in it
-<br> Using the columns of csv file and its data type,we create a table.
+<br> Create a data base and a table in it
+<br> The datatypes hould carefully be macthed with the coulmns of the given csv file.
 
 # Uploading the CSV File
-<br> we upload the values from csv file to the table created in sql.
+<br>Upload the values from csv file to the table created in sql.
 
-<br>Make sure that we truncate the table wwhile uploading
+<br>Truncate the table wwhile uploading
 
 
 # Data wrangling
