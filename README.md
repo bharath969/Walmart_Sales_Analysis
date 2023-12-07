@@ -52,6 +52,6 @@ To generate new data from the given data
 <br>3.Add a new column "***Month_name***"
 <br>set Month_name=monthname(date)
 
-# Exploaratory Data Analysis:
+# Exploratory Data Analysis:
 
 
