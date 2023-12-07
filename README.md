@@ -1,9 +1,9 @@
-# Walmart_Sales_Analysis
+# Walmart_Sales_Analysis"
 
 <br>This project aims to explore the Walmart Sales data to understand top performing branches and products, sales trend of of different products, customer behaviour. The aims is to study how sales strategies can be improved and optimized. The dataset was obtained from the Kaggle Walmart Sales Forecasting Competition.
 
 
-# Creating the table
+# Creating the table:
 <br> 1:Create a data base
 <br> 2:Create a table
 <br> 3:The datatypes of  attributes should carefully be macthed with the coulmns of the given csv file.
@@ -28,12 +28,12 @@
 |gross_income|	Gross Income|	decimal(6,4)|
 |Rating|	Rating	|FLOAT(2, 1)|
 
-# Uploading the CSV File
+# Uploading the CSV File:
 <br>Upload the values from csv file to the table created in sql.
 <br>Truncate the table while uploading
 
 
-# Data wrangling
+# Data wrangling:
 <br>This has already been taken care of while creating table by using constraint "***NOT NULL***"
 
 # Feauture Engineering : 
@@ -51,5 +51,7 @@ To generate new data from the given data
 
 <br>3.Add a new column "***Month_name***"
 <br>set Month_name=monthname(date)
+
+# Exploaratory Data Analysis:
 
 
