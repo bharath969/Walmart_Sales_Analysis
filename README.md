@@ -7,19 +7,24 @@
 <br> Create a data base and a table in it
 <br> The datatypes of  attributes should carefully be macthed with the coulmns of the given csv file.
 
+| Attribute | Description| Data type |
+| ---------|----------|----------|
+| Invoice_ID  | Invoice of the sales made | varchar(40) |
+| Branch  | Branch at which sales were made| char(1) |
+
 # Uploading the CSV File
 <br>Upload the values from csv file to the table created in sql.
 <br>Truncate the table while uploading
 
 
 # Data wrangling
-<br>This has already been taken care of while creating table by using constraint "NOT NULL"
+<br>This has already been taken care of while creating table by using constraint "***NOT NULL***"
 
 # Feauture Engineering : 
 To help us access the given data
 
-<br>1.Add a new column "Time_of_day"
+<br>1.Add a new column "***Time_of_day***"
 
-<br>2.Add a new column "day_name"
+<br>2.Add a new column "***Day_name***"
 
-<br>3.Add a new column "month_name"
+<br>3.Add a new column "***Month_name***"
