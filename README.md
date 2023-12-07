@@ -4,9 +4,9 @@
 
 
 # Creating the table
-<br> Step 1:Create a data base
-<br> Step 2:Create a table
-<br> Step 3:The datatypes of  attributes should carefully be macthed with the coulmns of the given csv file.
+<br> 1:Create a data base
+<br> 2:Create a table
+<br> 3:The datatypes of  attributes should carefully be macthed with the coulmns of the given csv file.
 
 | Attribute | Description| Data type |
 | ---------|----------|----------|
