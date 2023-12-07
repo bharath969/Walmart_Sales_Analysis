@@ -47,7 +47,7 @@ To generate new data from the given data
 
 <br>2.Add a new column "***Day_name***"
 
-<br>        set Day_name = dayname(date)
+<br>   set Day_name = dayname(date)
 
 <br>3.Add a new column "***Month_name***"
 
