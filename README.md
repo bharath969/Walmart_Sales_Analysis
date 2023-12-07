@@ -79,4 +79,21 @@ To generate new data from the given data
 <br>3.Which city has the largest tax percent/ VAT (Value Added Tax)?
 <br>4.Which customer type pays the most in VAT?
 
+# Customer Questions
+<br>1.How many unique customer types does the data have?
+<br>2.How many unique payment methods does the data have?
+<br>3.What is the most common customer type?
+<br>4.Which customer type buys the most?
+<br>5.What is the gender of most of the customers?
+<br>6.What is the gender distribution per branch?
+<br>7.Which time of the day do customers give most ratings?
+<br>8.Which time of the day do customers give most ratings per branch?
+<br>9.Which day of the week has the best avg ratings?
+<br>10.Which day of the week has the best average ratings per branch?
 
+# Conclusions:
+<br> 1.Need to increase the no of payments methods
+<br> 2.There is a neglible difference between the amount spent by members and normal persons.(We should give memembership cards and points for every purchase etc ).
+<br> 3.More purchases are done in the evening which is pretty normal but less purchases in the morning(Need to work on this)
+<br> 4.Focus on the city('Yangon') which is doing well and implement its best practices in the other cities.
+<br> 5.Do a sepearate analysis on product and customer for better improvement in the sales
