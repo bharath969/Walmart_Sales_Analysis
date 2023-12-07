@@ -36,10 +36,15 @@
 <br>This has already been taken care of while creating table by using constraint "***NOT NULL***"
 
 # Feauture Engineering : 
-To help us access the given data
+To generate new data from the given data 
 
-<br>1.Add a new column "***Time_of_day***"
+<br>1.Add a new column "***Time_of_day*:**"
+        Time between "00:00:00" and "12:00:00" then "**Morning**"
+        Time between "12:00:01" and "16:00:00" then "**Afternoon**"
+        else "**Evening**"
 
-<br>2.Add a new column "***Day_name***"
+<br>2.Add a new column "***Day_name*:**"
+        set Day_name = dayname(date)
 
-<br>3.Add a new column "***Month_name***"
+<br>3.Add a new column "***Month_name*:**"
+        set Month_name=monthname(date)
