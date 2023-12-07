@@ -43,10 +43,13 @@ To generate new data from the given data
 <pre>Time between "00:00:00" and "12:00:00" then "**Morning**"
 Time between "12:00:01" and "16:00:00" then "**Afternoon**"
 else "**Evening**"
+<pre>
 
 <br>2.Add a new column "***Day_name***"
 <pre>set Day_name = dayname(date)
+<pre>
 
 <br>3.Add a new column "***Month_name***"
--set Month_name=monthname(date)
+<pre>set Month_name=monthname(date)
+<pre>
 
