@@ -40,12 +40,15 @@
 To generate new data from the given data 
 
 <br>1.Add a new column "***Time_of_day***"
-        <br>Time between "00:00:00" and "12:00:00" then "**Morning**"
-        <br>Time between "12:00:01" and "16:00:00" then "**Afternoon**"
-        <br>else "**Evening**"
+
+<br>        Time between "00:00:00" and "12:00:00" then "**Morning**"
+<br>        Time between "12:00:01" and "16:00:00" then "**Afternoon**"
+<br>        else "**Evening**"
 
 <br>2.Add a new column "***Day_name***"
-        <br>set Day_name = dayname(date)
+
+<br>        set Day_name = dayname(date)
 
 <br>3.Add a new column "***Month_name***"
-        <br>set Month_name=monthname(date)
+
+<br>        set Month_name=monthname(date)
