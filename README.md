@@ -4,8 +4,9 @@
 
 
 # Creating the table
-<br> Create a data base and a table in it
-<br> The datatypes of  attributes should carefully be macthed with the coulmns of the given csv file.
+<br> Step 1:Create a data base
+<br> Step 2:Create a table
+<br> Step 3:The datatypes of  attributes should carefully be macthed with the coulmns of the given csv file.
 
 | Attribute | Description| Data type |
 | ---------|----------|----------|
@@ -38,13 +39,13 @@
 # Feauture Engineering : 
 To generate new data from the given data 
 
-<br>1.Add a new column "***Time_of_day*:**"
-        Time between "00:00:00" and "12:00:00" then "**Morning**"
-        Time between "12:00:01" and "16:00:00" then "**Afternoon**"
-        else "**Evening**"
+<br>1.Add a new column "***Time_of_day***"
+        <br>Time between "00:00:00" and "12:00:00" then "**Morning**"
+        <br>Time between "12:00:01" and "16:00:00" then "**Afternoon**"
+        <br>else "**Evening**"
 
-<br>2.Add a new column "***Day_name*:**"
-        set Day_name = dayname(date)
+<br>2.Add a new column "***Day_name***"
+        <br>set Day_name = dayname(date)
 
-<br>3.Add a new column "***Month_name*:**"
-        set Month_name=monthname(date)
+<br>3.Add a new column "***Month_name***"
+        <br>set Month_name=monthname(date)
