@@ -53,5 +53,30 @@ To generate new data from the given data
 <br>set Month_name=monthname(date)
 
 # Exploratory Data Analysis:
+<br> We do some EDA to answer the following questions
+
+# Generic Question
+<br>1.How many unique cities does the data have?
+<br>2.In which city is each branch?
+
+# Product Questions
+<br>1.How many unique product lines does the data have?
+<br>2.What is the most common payment method?
+<br>3.What is the most selling product line?
+<br>4.What is the total revenue by month?
+<br>5.What month had the largest COGS?
+<br>6.What product line had the largest revenue?
+<br>7.What is the city with the largest revenue?
+<br>8.What product line had the largest VAT?
+<br>9.Fetch each product line and add a column to those product line showing "Good", "Bad". Good if its greater than average sales
+<br>10.Which branch sold more products than average product sold?
+<br>11.What is the most common product line by gender?
+<br>12.What is the average rating of each product line?
+
+# Sales Questions
+<br>1.Number of sales made in each time of the day per weekday?
+<br>2.Which of the customer types brings the most revenue?
+<br>3.Which city has the largest tax percent/ VAT (Value Added Tax)?
+<br>4.Which customer type pays the most in VAT?
 
 
