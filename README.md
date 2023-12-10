@@ -2,6 +2,9 @@
 
 <br>This project aims to explore the Walmart Sales data to understand top performing branches and products, sales trend of of different products, customer behaviour. The aims is to study how sales strategies can be improved and optimized. The dataset was obtained from the Kaggle Walmart Sales Forecasting Competition.
 
+# Technologies Used:
+<br> 1.My Sql
+<br> 2.Power Bi
 
 # Creating the table:
 <br> 1:Create a data base
@@ -91,9 +94,22 @@ To generate new data from the given data
 <br>9.Which day of the week has the best avg ratings?
 <br>10.Which day of the week has the best average ratings per branch?
 
+# Power Bi Anlaysis:
+<br>Plotted the following in Power Bi
+<br>1.Total revenue
+<br>2.Total Revenue by month
+<br>3.Total revenue by branch
+<br>4.Total money spent by customers grouped by their gender
+<br>5.For production line,plotted total revenue,quantity of products sold,production cost and gross margin
+<br>6.Total cost of production of each branch
+<br>7.Gross margin of each branch
+<br>8.Average rating of each branch
+<br>9.Prefered payment method 
+
 # Conclusions:
-<br> 1.Need to increase the no of payments methods
-<br> 2.There is a neglible difference between the amount spent by members and normal persons.(We should give memembership cards and points for every purchase etc ).
-<br> 3.More purchases are done in the evening which is pretty normal but less purchases in the morning(Need to work on this)
-<br> 4.Focus on the city('Yangon') which is doing well and implement its best practices in the other cities.
-<br> 5.Do a sepearate analysis on product and customer for better improvement in the sales
+<br> 1.There is a massive dip in the sales of February month.This is due to fall in the sales of these product lines(Sports and travel,Home and lifestyle
+Health and beauty).We need to investigate why?
+<br> 2.Need to increase the no of payments methods
+<br> 3.There is a neglible difference between the amount spent by members and normal persons.(We should give membership cards and points for every purchase etc.
+<br> 4.More purchases are done in the evening which is pretty normal but less purchases in the morning(Need to work on this).
+<br> 5.We have only 6 product lines.if possible, we need to diversify.
